@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Qulture</string>
+    <string name="title_quizz">Quizz</string>
+    <string name="title_mesfiches">Mes fiches</string>
+    <string name="title_user">Compte</string>
+    <string name="title_LS">Hello Qulture!</string>
 </resources>
